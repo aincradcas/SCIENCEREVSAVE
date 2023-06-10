@@ -1,0 +1,10 @@
+--rev notes
+
+contact forces(force that are implemented when you touch)
+-tension
+-friction
+-air resistence 
+-normal contact force
+non contact force(contact force that doesnt happen when you touch)
+-gravitational 
+-magnetic
